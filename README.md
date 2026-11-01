@@ -2,7 +2,7 @@
 
 ## What is Pixie?
 
-Pixie is a beginner-friendly LED circuit PCB project created as part of Hack Club's Half Life program.
+Pixie is a LED circuit PCB project created as part of Hack Club's Half Life program.
 
 My original idea was to create a small interactive OLED pet, but due to time constraints and challenges with circuit design, I decided to simplify the project into a basic LED circuit.
 
@@ -40,13 +40,7 @@ I learnt
 
 I used a YouTube tutorial as a reference for learning how to create this basic LED circuit.
 
-Tutorial: https://www.youtube.com/watch?v=PJ5DdO47Wx0
-
-## Project Files
-
-- `Pixie.kicad_sch` – Circuit schematic
-- `Pixie.kicad_pcb` – PCB layout
-- `Gerbers/` – Manufacturing files
+Tutorial: (https://www.youtube.com/watch?v=PJ5DdO47Wx0)
 
 I would like to revisit my original interactive OLED pet idea in the future, using what I learned from this project to build a more complex circuit.
 
