@@ -28,6 +28,7 @@ The circuit uses a simple LED, a resistor, and a screw terminal.
 | LED | 1 | Produces light |
 | Resistor | 1 | Limits current |
 | Screw terminal | 1 | Connects the power supply |
+| PCB | 1 | the base|
 
 ## Design Process
 
