@@ -1,4 +1,6 @@
+
 # pixie
+<img width="auto" height="269" alt="1000037755" src="https://github.com/user-attachments/assets/2638414e-6394-4abc-b9be-9dfc07d8c335" />
 
 <img width="421" height="269" alt="Screenshot_1-11-2026_173116_" src="https://github.com/user-attachments/assets/78b090f2-311d-4f38-99c7-8afb351b8e57" />
 
