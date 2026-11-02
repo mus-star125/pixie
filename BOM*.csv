@@ -2,8 +2,8 @@
 
 
 
-| Component      | Quantity | Purpose                                        |
-| LED            | 1        | Produces light                                 |
-| 360 Ω Resistor | 1        | Limits current flowing through the LED         |
-| Screw terminal | 1        | Connects the external power supply             |
-| PCB            | 1        | Holds and electrically connects the components |
+, Component      , Quantity , Purpose                                        ,
+, LED            , 1        , Produces light                                 ,
+, 360 Ω Resistor , 1        , Limits current flowing through the LED         ,
+, Screw terminal , 1        , Connects the external power supply             ,
+, PCB            , 1        , Holds and electrically connects the components ,
